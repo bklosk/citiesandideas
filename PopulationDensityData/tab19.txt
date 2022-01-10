@@ -1,15 +1,3 @@
-Table 19.  Population of the 100 Largest Urban Places:  1960
-
-Source:  U.S. Bureau of the Census
-Internet Release date:  June 15, 1998
-
---------------------------------------------------------------- 
-      |                          |          |       |  Density
-      |                          |          |   Land| (average
-      |                          |          |   area|  popula-
-      |                          |          |   (sq.| tion per
- Rank | Place                    |Population| miles)|sq. mile)
---------------------------------------------------------------- 
     1   New York city, NY *......  7,781,984   315.1    24,697
     2   Chicago city, IL.........  3,550,404   224.2    15,836
     3   Los Angeles city, CA.....  2,479,015   454.8     5,451
@@ -20,7 +8,6 @@ Internet Release date:  June 15, 1998
     8   Cleveland city, OH.......    876,050    81.2    10,789
     9   Washington city, DC......    763,956    61.4    12,442
    10   St. Louis city, MO.......    750,026    61.0    12,296
-
    11   Milwaukee city, WI.......    741,324    91.1     8,137
    12   San Francisco city, CA...    740,316    47.6    15,553
    13   Boston city, MA..........    697,197    47.8    14,586
@@ -31,7 +18,6 @@ Internet Release date:  June 15, 1998
    18   San Diego city, CA.......    573,224   192.4     2,979
    19   Seattle city, WA.........    557,087    88.5     6,295
    20   Buffalo city, NY.........    532,759    39.4    13,522
-
    21   Cincinnati city, OH......    502,550    77.3     6,501
    22   Memphis city, TN.........    497,524   128.2     3,881
    23   Denver city, CO..........    493,887    71.0     6,956
@@ -42,7 +28,6 @@ Internet Release date:  June 15, 1998
    28   Columbus city, OH........    471,316    89.0     5,296
    29   Phoenix city, AZ.........    439,170   187.4     2,343
    30   Newark city, NJ..........    405,220    23.6    17,170
-
    31   Louisville city, KY......    390,639    57.1     6,841
    32   Portland city, OR........    372,676    67.2     5,546
    33   Oakland city, CA.........    367,548    53.0     6,935
@@ -53,7 +38,6 @@ Internet Release date:  June 15, 1998
    38   Rochester city, NY.......    318,611    36.4     8,753
    39   Toledo city, OH..........    318,003    48.2     6,598
    40   St. Paul city, MN........    313,411    52.2     6,004
-
    41   Norfolk city, VA.........    305,872    50.0     6,117
    42   Omaha city, NE...........    301,598    51.2     5,891
    43   Honolulu CDP, HI *.......    294,194    83.9     3,506
@@ -64,7 +48,6 @@ Internet Release date:  June 15, 1998
    48   Tampa city, FL...........    274,970    85.0     3,235
    49   Dayton city, OH..........    262,332    33.6     7,808
    50   Tulsa city, OK...........    261,685    47.8     5,475
-
    51   Wichita city, KS.........    254,698    51.9     4,907
    52   Richmond city, VA........    219,958    37.0     5,945
    53   Syracuse city, NY........    216,038    25.0     8,642
@@ -75,7 +58,6 @@ Internet Release date:  June 15, 1998
    58   Mobile city, AL..........    202,779   152.9     1,326
    59   Charlotte city, NC.......    201,564    64.8     3,111
    60   Albuquerque city, NM.....    201,189    56.2     3,580
-
    61   Jacksonville city, FL....    201,030    30.2     6,657
    62   Flint city, MI...........    196,940    29.9     6,587
    63   Sacramento city, CA......    191,667    45.1     4,250
@@ -86,7 +68,6 @@ Internet Release date:  June 15, 1998
    68   Spokane city, WA.........    181,608    43.0     4,223
    69   St. Petersburg city, FL..    181,298    54.0     3,357
    70   Gary city, IN............    178,320    41.6     4,287
-
    71   Grand Rapids city, MI....    177,313    24.4     7,267
    72   Springfield city, MA.....    174,463    33.1     5,271
    73   Nashville city, TN.......    170,874    29.0     5,892
@@ -97,7 +78,6 @@ Internet Release date:  June 15, 1998
    78   Hartford city, CT........    162,178    17.4     9,321
    79   Fort Wayne city, IN......    161,776    36.8     4,396
    80   Bridgeport city, CT......    156,748    17.9     8,757
-
    81   Baton Rouge city, LA.....    152,419    31.0     4,917
    82   New Haven city, CT.......    152,048    17.9     8,494
    83   Savannah city GA.........    149,245    41.5     3,596
@@ -108,7 +88,6 @@ Internet Release date:  June 15, 1998
    88   Erie city, PA............    138,440    18.8     7,364
    89   Amarillo city, TX........    137,969    54.8     2,518
    90   Montgomery city, AL......    134,393    31.8     4,226
-
    91   Fresno city, CA..........    133,929    28.6     4,683
    92   South Bend city, IN......    132,445    23.8     5,565
    93   Chattanooga city, TN.....    130,009    36.7     3,542
@@ -119,6 +98,3 @@ Internet Release date:  June 15, 1998
  97-T   Rockford city, IL........    126,706    26.0     4,873
    99   Kansas City city, KS.....    121,901    40.6     3,002
   100   Greensboro city, NC......    119,574    48.6     2,460
---------------------------------------------------------------- 
-
-*See Notes for Individual Places.

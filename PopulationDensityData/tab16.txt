@@ -1,15 +1,3 @@
-Table 16.  Population of the 100 Largest Urban Places:  1930
-
-Source:  U.S. Bureau of the Census
-Internet Release date:  June 15, 1998
-
----------------------------------------------------------------- 
-       |                          |          |       |  Density
-       |                          |          |   Land| (average
-       |                          |          |   area|  popula-
-       |                          |          |   (sq.| tion per
-  Rank | Place 1/                 |Population| miles)|sq. mile)
----------------------------------------------------------------- 
      1   New York city, NY *......  6,930,446   299.0    23,179
      2   Chicago city, IL.........  3,376,438   201.9    16,723
      3   Philadelphia city, PA....  1,950,961   128.0    15,242
@@ -20,7 +8,6 @@ Internet Release date:  June 15, 1998
      8   Baltimore city, MD.......    804,874    78.7    10,227
      9   Boston city, MA..........    781,188    43.9    17,795
     10   Pittsburgh city, PA......    669,817    51.3    13,057
-
     11   San Francisco city, CA...    634,394    42.0    15,105
     12   Milwaukee city, WI.......    578,249    41.1    14,069
     13   Buffalo city, NY.........    573,076    38.9    14,732
@@ -31,7 +18,6 @@ Internet Release date:  June 15, 1998
     18   Newark city, NJ..........    442,337    23.6    18,743
     19   Kansas City city, MO.....    399,746    58.6     6,822
     20   Seattle city, WA.........    365,583    68.5     5,337
-
     21   Indianapolis city, IN....    364,161    54.2     6,719
     22   Rochester city, NY.......    328,132    34.2     9,595
     23   Jersey City city, NJ.....    316,715    13.0    24,363
@@ -42,7 +28,6 @@ Internet Release date:  June 15, 1998
     28   Columbus city, OH........    290,564    38.5     7,547
     29   Denver city, CO..........    287,861    58.0     4,963
     30   Oakland city, CA.........    284,063    53.2     5,340
-
     31   St. Paul city, MN........    271,606    52.2     5,203
     32   Atlanta city, GA.........    270,366    34.8     7,769
     33   Dallas city, TX..........    260,475    41.8     6,231
@@ -53,7 +38,6 @@ Internet Release date:  June 15, 1998
     38   San Antonio city, TX.....    231,542    35.7     6,486
     39   Omaha city, NE...........    214,006    39.1     5,473
     40   Syracuse city, NY........    209,326    25.3     8,274
-
     41   Dayton city, OH..........    200,982    18.1    11,104
     42   Worcester city, MA.......    195,311    37.2     5,250
     43   Oklahoma City city, OK...    185,389    30.4     6,098
@@ -64,7 +48,6 @@ Internet Release date:  June 15, 1998
     48   Fort Worth city, TX......    163,447    46.4     3,523
     49   New Haven city, CT.......    162,655    17.9     9,087
     50   Flint city, MI...........    156,492    29.7     5,269
-
     51   Nashville city, TN.......    153,866    26.0     5,918
     52   Springfield city, MA.....    149,900    31.7     4,729
     53   San Diego city, CA.......    147,995    93.6     1,581
@@ -75,7 +58,6 @@ Internet Release date:  June 15, 1998
     58   Tulsa city, OK...........    141,258    21.6     6,540
     59   Salt Lake City city, UT..    140,267    52.0     2,697
     60   Patterson city, NJ.......    138,513     8.1    17,100
-
     61   Yonkers city, NY.........    134,646    20.1     6,699
     62   Norfolk city, VA.........    129,710    28.0     4,633
     63   Jacksonville city, FL....    129,549    26.4     4,907
@@ -86,7 +68,6 @@ Internet Release date:  June 15, 1998
     68   Camden city, NJ..........    118,700     8.7    13,644
     69   Erie city, PA............    115,967    19.3     6,009
     70   Spokane city, WA.........    115,514    40.4     2,859
-
     71   Fall River city, MA......    115,274    32.9     3,504
     72   Fort Wayne city, IN......    114,946    17.2     6,683
     73   Elizabeth city, NJ.......    114,589     9.7    11,813
@@ -97,7 +78,6 @@ Internet Release date:  June 15, 1998
     78   Miami city, FL...........    110,637    43.0     2,573
     79   Tacoma city, WA..........    106,817    46.4     2,302
     80   Wilmington city, DE......    106,597     7.2    14,805
-
     81   Knoxville city, TN.......    105,802    26.4     4,008
     82   Peoria city, IL..........    104,969    12.3     8,534
     83   Canton city, OH..........    104,906    13.6     7,714
@@ -108,7 +88,6 @@ Internet Release date:  June 15, 1998
     88   Evansville city, IN......    102,249     8.7    11,753
     89   Utica city, NY...........    101,740    21.2     4,799
     90   Duluth city, MN..........    101,463    62.3     1,629
-
     91   Tampa city, FL...........    101,161    19.0     5,324
     92   Gary city, IN............    100,426    40.3     2,492
     93   Lowell city, MA..........    100,234    13.4     7,480
@@ -119,7 +98,3 @@ Internet Release date:  June 15, 1998
     98   Bayonne city, NJ.........     88,979     4.4    20,223
     99   Wilkes-Barre city, PA....     86,626     7.0    12,375
    100   Rockford city, IL........     85,864    11.7     7,339
----------------------------------------------------------------- 
-
-*See Notes for Individual Places.
-1/  Excludes Honolulu CDP (population 137,582) before Hawaii became a state.
