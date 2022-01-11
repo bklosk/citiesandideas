@@ -94,7 +94,7 @@
    94   Albany city, NY..........    129,726    19.0     6,828
    95   Lubbock city, TX.........    128,691    75.0     1,716
    96   Lincoln city, NE.........    128,521    25.4     5,060
- 97-T   Madison city, WI.........    126,706    35.7     3,549
- 97-T   Rockford city, IL........    126,706    26.0     4,873
+   97   Madison city, WI.........    126,706    35.7     3,549
+   97   Rockford city, IL........    126,706    26.0     4,873
    99   Kansas City city, KS.....    121,901    40.6     3,002
   100   Greensboro city, NC......    119,574    48.6     2,460
